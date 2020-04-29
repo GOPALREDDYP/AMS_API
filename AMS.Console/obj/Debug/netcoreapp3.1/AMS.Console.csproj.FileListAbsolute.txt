@@ -1,0 +1,12 @@
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\obj\Debug\netcoreapp3.1\AMS.Console.csproj.CoreCompileInputs.cache
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\obj\Debug\netcoreapp3.1\AMS.Console.AssemblyInfoInputs.cache
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\obj\Debug\netcoreapp3.1\AMS.Console.AssemblyInfo.cs
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\bin\Debug\netcoreapp3.1\AMS.Console.exe
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\bin\Debug\netcoreapp3.1\AMS.Console.deps.json
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\bin\Debug\netcoreapp3.1\AMS.Console.runtimeconfig.json
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\bin\Debug\netcoreapp3.1\AMS.Console.runtimeconfig.dev.json
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\bin\Debug\netcoreapp3.1\AMS.Console.dll
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\bin\Debug\netcoreapp3.1\AMS.Console.pdb
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\obj\Debug\netcoreapp3.1\AMS.Console.dll
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\obj\Debug\netcoreapp3.1\AMS.Console.pdb
+F:\Zulu-Helpdesk\SubModule\AMS_API\AMS.Console\obj\Debug\netcoreapp3.1\AMS.Console.genruntimeconfig.cache

@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("test");
+            System.Console.WriteLine("sub module demo");
             System.Console.ReadLine();
         }
     }
